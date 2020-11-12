@@ -6,14 +6,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://maximlt.github.io/fr/galleries/rss.xml</loc>
-  <lastmod>2020-11-12T20:01:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://maximlt.github.io/fr/rss.xml</loc>
-  <lastmod>2020-11-12T20:01:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://maximlt.github.io/galleries/rss.xml</loc>
   <lastmod>2020-11-12T20:47:00Z</lastmod>
  </sitemap>
@@ -23,6 +15,6 @@
  </sitemap>
  <sitemap>
   <loc>https://maximlt.github.io/sitemap.xml</loc>
-  <lastmod>2020-11-12T20:47:00Z</lastmod>
+  <lastmod>2020-11-12T21:01:00Z</lastmod>
  </sitemap>
 </sitemapindex>
